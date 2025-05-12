@@ -41,7 +41,7 @@ with more improved vanilla minecraft. The modpack is a Technical****
 # 🚨Problems and ideas💡
 
 ## 🚨Problems
-**If you notice a problem in the modpack. For example, crashes, report it on Github in the “Problem” section by writing “Problem and Bugs” at the beginning of the header**
+**If you notice a problem in the modpack. For example, crashes, report it on [Github](https://github.com/DocktorWindows/Create-Vanilla-Technology) in the “Problem” section by writing “Problem and Bugs” at the beginning of the header**
 
 ## 💡Idea
-**If you want to improve the modpack something change report it on Github in the “Issues” section writing “Idea” in the title**
+**If you want to improve the modpack something change report it on [Github](https://github.com/DocktorWindows/Create-Vanilla-Technology) in the “Issues” section writing “Idea” in the title**
