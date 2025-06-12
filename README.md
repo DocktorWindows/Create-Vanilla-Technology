@@ -11,7 +11,7 @@
 with more improved vanilla minecraft. The modpack is a Technical****
 
 # ✨Vanilla
-****I in the package improved vanilla minecraft adding new chips, it has many, no even very many mods improving vanilla minecraft. I was looking for mods that more or less fit in vanilla and improve it****
+**I in the package improved vanilla minecraft adding new chips, it has many, no even very many mods improving vanilla minecraft. I was looking for mods that more or less fit in vanilla and improve it**
 
 # ⚡Performance
 **With every modpack update I try to improve performance so that FPS does not drop and it is comfortable to play. Now this is considered a serious problem for me, because I am not good at optimization. In the next update I will try to solve this problem**
@@ -31,12 +31,6 @@ with more improved vanilla minecraft. The modpack is a Technical****
 [More Red x CC:Tweaked Compat](https://modrinth.com/mod/more-red-x-cc-tweaked-compat),
 [More Peripherals](https://modrinth.com/mod/more-peripherals), and 
 [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)**
-
-## ⚙️Create mod
-**Create on which created modpack is present, and there are addons to it. Modpack supports Create 0.5.1h**
-
-### ⚙️Why am I using Create 0.5.1?
-**I use it for the reason that it does not support all addons on the new vera, when all addons will be updated to 0.6 then the modpack will be updated**
 
 # 🚨Problems and ideas💡
 
