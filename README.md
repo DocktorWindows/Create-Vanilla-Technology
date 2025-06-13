@@ -19,6 +19,8 @@ with more improved vanilla minecraft. The modpack is a Technical****
 # 🏭Industrial
 **That's what I created the modpack itself and this section for, namely the industry in terms of Mekanism, Create and others. I created the modpack based on this idea of mine. There are many mods in the modpack adding technology. I mainly based this modpack on the mod Mekanism and Create to play with friends**
 
+# 💬Join a discord [server](https://discord.gg/CDRrU3kK7p)!
+
 # 🤔What's in the modpack?
 **_This does not describe everything that is in the modpack_**
 ## 🏞️Generation
@@ -39,3 +41,5 @@ with more improved vanilla minecraft. The modpack is a Technical****
 
 ## 💡Idea
 **If you want to improve the modpack something change report it on [Github](https://github.com/DocktorWindows/Create-Vanilla-Technology) in the “Issues” section writing “Idea” in the title**
+
+## You can do this on [Github](https://github.com/DocktorWindows/Create-Vanilla-Technology/issues) or in our discord [server](https://discord.gg/CDRrU3kK7p)
