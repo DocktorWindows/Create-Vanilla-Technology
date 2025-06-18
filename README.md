@@ -1,5 +1,5 @@
 # 🚨Attention🚨
-**I am stopping further development of this project as I have decided to upgrade to the new version of Minecraft 1.21.1. Follow the development [here](https://discord.gg/CDRrU3kK7p)**
+## **I am stopping further development of this project as I have decided to upgrade to the new version of Minecraft 1.21.1. Follow the development [here](https://discord.gg/CDRrU3kK7p)**
 
 ### This is my first modpack, please do not judge harshly
 
