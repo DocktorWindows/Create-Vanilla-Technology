@@ -1,14 +1,17 @@
+# 🚨Attention🚨
+**I am stopping further development of this project as I have decided to upgrade to the new version of Minecraft 1.21.1. Follow the development [here](https://discord.gg/CDRrU3kK7p)**
+
 ### This is my first modpack, please do not judge harshly
 
 # 🌋What's the modpack?
-****A modpack for playing with friends, combining with mods such as 
+**A modpack for playing with friends, combining with mods such as 
 [Create](https://modrinth.com/mod/create), 
 [Mekanism](https://modrinth.com/mod/mekanism), 
 [Computer Craft](https://modrinth.com/mod/cc-tweaked), 
 [Electrodynamics](https://modrinth.com/mod/electrodynamics), 
 [Immersive Engineering](https://modrinth.com/mod/immersiveengineering/versions) and 
 [Nuclear Science](https://modrinth.com/mod/nuclear-science), 
-with more improved vanilla minecraft. The modpack is a Technical****
+with more improved vanilla minecraft. The modpack is a Technical**
 
 # ✨Vanilla
 **I in the package improved vanilla minecraft adding new chips, it has many, no even very many mods improving vanilla minecraft. I was looking for mods that more or less fit in vanilla and improve it**
